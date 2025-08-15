@@ -5,7 +5,7 @@ st.title('Evaluation of Global Hydrological Model')
 
 # --- Sidebar ---
 st.sidebar.title("Hydrology Research Group")  # Title at the very top
-st.sidebar.header("Main Menu")
+st.sidebar.header("Home")
 
 # Top-level menu selection
 main_selection = st.sidebar.radio(
